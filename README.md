@@ -1,2 +1,2 @@
 # MyHelloWolrd
-My First Program
+My First Program in GitHub
